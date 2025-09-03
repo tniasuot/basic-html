@@ -1,0 +1,14 @@
+Name: Caleb Toussaint
+ID: ct24p
+Course: COP 4813 - Web Applications Programming
+Instructor: Dr Ahsan Abdullah
+Submission Date: 09/03/2025
+
+Overview:
+This assignment is a simple, static HTML page that has a header, and displays text.
+
+Results: The web page renders and displays text as it should. Deployed via Github pages.
+Accessible via ....
+
+Analysis:
+No issues encoutered. Very simple web page. This is based on preexisting knowledge of HTML. 
